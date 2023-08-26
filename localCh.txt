@@ -1,0 +1,2 @@
+1. configure the github
+2. bat file configuration
